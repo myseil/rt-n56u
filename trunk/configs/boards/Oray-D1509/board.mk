@@ -4,5 +4,5 @@
 # Oray-D1509   # Oray-D1509   # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_Oray-D1509
+CFLAGS += -DBOARD_D1509
 BOARD_NUM_USB_PORTS=1
